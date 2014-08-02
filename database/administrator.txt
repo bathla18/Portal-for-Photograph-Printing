@@ -1,0 +1,4 @@
+AID,USERID,NAME,PHONE,ADDRESS,EMAIL
+101,anchit,anchit gupta,16243,agra,anchitgupta@gmail.com
+103,monica,monica singh,59141,kanpur,monicasingh@iiita.ac.in
+102,ankit,ankit bathla,26140,muzaffarnagar,ankitbathla@gmail.com

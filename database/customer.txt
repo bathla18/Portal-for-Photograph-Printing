@@ -1,0 +1,16 @@
+NAME,USERID,PASSWORD,PHONE,EMAIL,ADDRESS,SHIPPINGADDRESS
+anki,anki,anki,999,anki@iiita.ac.in,agra,agra
+anchit,anchi,anchi,999,anchi@iiita.ac.in,agra,agra
+monica,moni,moni,999,moni@iiita.ac.in,kanpur,kanpur
+anc,anc,ank,999,ank@iiita.ac.in,mzn,mzn
+anv,anv,anv,999,anv@iiita.ac.in,agra,agra
+prashant,pj,pj,999,pj@iiita.ac.in,haldwani,haldwani
+rahul,rg,rg,999,rg@iiita.ac.in,sre,sre
+ankita,ankita,ankita,999,ankita@iiita.ac.in,agra,agra
+shivani bathla,shivi,shivi,999,shivi@iiita.ac.in,mzn,mzn
+ashish bathla,ashu,ashu,9999,ashishbathla@iiita.ac.in,muzaffarnagar,muzaffarnagar
+akhay gupta,akshay,akshay,99999,akshay@iiita.ac.in,mbad,mbad
+pooja singh,poji,poji,999999,poji@iiita.ac.in,kanpur,panpur
+anchit gupta,anchita,anchita,999,anchita@iiita.ac.in,agra,agra
+rahul gupta,gg,gg,99999,gg@iita.ac.in,sre,sre
+aartee tyagi,artu,artu,9999,artu@iiita.ac.in,bareilly,bareilly
